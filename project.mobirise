@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "datos_servicio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -984,7 +984,7 @@
     },
     "datos_servicio.html": {
       "settings": {
-        "title": "datos_Servicio",
+        "title": "Datos de Servicio",
         "meta_descr": "Sistema de control de estacionamientos. Se opera generando códigos de barra que identifican cada unidad que accede al servicio del estacionamiento. Posteriormente dicho boleto es leido y procesado.",
         "header_custom": "",
         "footer_custom": "",
