@@ -39,8 +39,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "ParkingWeb3",
+        "meta_descr": "Sistema de control de estacionamientos. Se opera generando códigos de barra que identifican cada unidad que accede al servicio del estacionamiento. Posteriormente dicho boleto es leido y procesado.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
